@@ -1,0 +1,104 @@
+﻿@model RentExtreme2.Models.Person
+@{
+    ViewBag.Title = "Register";
+}
+
+@*<h2>@ViewBag.Title.</h2>*@
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <hr />
+    @Html.ValidationSummary(true)
+    <div class="form-group">
+        <div>
+            Логин
+            <div>
+                @Html.EditorFor(model => model.Login, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Login, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Электронный адрес
+            <div>
+                @Html.EditorFor(model => model.Email, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Номер телефона
+            <div>
+                @Html.EditorFor(model => model.Telephone, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Telephone, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Пароль
+            <div>
+                @Html.EditorFor(model => model.Password, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Подтвердить пароль
+            <div>
+                @Html.EditorFor(model => model.PasswordConfirm, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PasswordConfirm, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Укажите Ваш рост в сантиметрах (170)
+            <div>
+                @Html.EditorFor(model => model.Growth, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Growth, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Укажите Ваш размер обуви (40)
+            <div>
+                @Html.EditorFor(model => model.FootSize, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.FootSize, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            Согласен с @Html.ActionLink("условиями", "Conditions", "Home")
+            <div>
+                @Html.EditorFor(model => model.TermsAccepted, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TermsAccepted)
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div>
+            <div>
+                <input type="submit" value="Зарегистрировать" />
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

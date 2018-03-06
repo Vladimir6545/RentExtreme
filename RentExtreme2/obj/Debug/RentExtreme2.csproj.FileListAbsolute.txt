@@ -1,0 +1,435 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\ApplicationInsights.config
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\csc.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\vbc.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll.config
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\RentExtreme2.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\EntityFramework.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Owin.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Razor.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\WebGrease.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.Razor.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\EntityFramework.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\MySql.Data.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\bin\MySql.Data.Entity.EF6.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.DataMigration.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.DataMigration1.resources
+C:\Users\Vladimir\documents\visual studio 2015\Projects\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csprojResolveAssemblyReference.cache
+E:\RentExtreme2\RentExtreme2\bin\ApplicationInsights.config
+E:\RentExtreme2\RentExtreme2\bin\roslyn\csc.exe
+E:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RentExtreme2\RentExtreme2\bin\roslyn\System.Collections.Immutable.dll
+E:\RentExtreme2\RentExtreme2\bin\roslyn\System.Reflection.Metadata.dll
+E:\RentExtreme2\RentExtreme2\bin\roslyn\vbc.exe
+E:\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe
+E:\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe.config
+E:\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll.config
+E:\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll
+E:\RentExtreme2\RentExtreme2\bin\RentExtreme2.pdb
+E:\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.dll
+E:\RentExtreme2\RentExtreme2\bin\EntityFramework.dll
+E:\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Web.Infrastructure.dll
+E:\RentExtreme2\RentExtreme2\bin\MySql.Data.dll
+E:\RentExtreme2\RentExtreme2\bin\MySql.Data.Entity.EF6.dll
+E:\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.dll
+E:\RentExtreme2\RentExtreme2\bin\Owin.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Razor.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.dll
+E:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.dll
+E:\RentExtreme2\RentExtreme2\bin\WebGrease.dll
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.Razor.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.xml
+E:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.xml
+E:\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.pdb
+E:\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.xml
+E:\RentExtreme2\RentExtreme2\bin\EntityFramework.xml
+E:\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csprojResolveAssemblyReference.cache
+E:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.DataMigration.resources
+E:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.DataMigration1.resources
+E:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csproj.GenerateResource.Cache
+E:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.dll
+E:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.pdb
+D:\RentExtreme2\RentExtreme2\bin\ApplicationInsights.config
+D:\RentExtreme2\RentExtreme2\bin\roslyn\csc.exe
+D:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RentExtreme2\RentExtreme2\bin\roslyn\System.Collections.Immutable.dll
+D:\RentExtreme2\RentExtreme2\bin\roslyn\System.Reflection.Metadata.dll
+D:\RentExtreme2\RentExtreme2\bin\roslyn\vbc.exe
+D:\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe
+D:\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe.config
+D:\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll.config
+D:\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll
+D:\RentExtreme2\RentExtreme2\bin\RentExtreme2.pdb
+D:\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.dll
+D:\RentExtreme2\RentExtreme2\bin\EntityFramework.dll
+D:\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Web.Infrastructure.dll
+D:\RentExtreme2\RentExtreme2\bin\MySql.Data.dll
+D:\RentExtreme2\RentExtreme2\bin\MySql.Data.Entity.EF6.dll
+D:\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.dll
+D:\RentExtreme2\RentExtreme2\bin\Owin.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Razor.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.dll
+D:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.dll
+D:\RentExtreme2\RentExtreme2\bin\WebGrease.dll
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.Razor.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.xml
+D:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.xml
+D:\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.pdb
+D:\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.xml
+D:\RentExtreme2\RentExtreme2\bin\EntityFramework.xml
+D:\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csprojResolveAssemblyReference.cache
+D:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.DataMigration.resources
+D:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.DataMigration1.resources
+D:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csproj.GenerateResource.Cache
+D:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.dll
+D:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.pdb
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\ApplicationInsights.config
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\csc.exe
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\vbc.exe
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll.config
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\RentExtreme2.pdb
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\EntityFramework.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\MySql.Data.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Owin.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Razor.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\WebGrease.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.Razor.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.pdb
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\EntityFramework.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.dll
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.pdb
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.Migration1.resources
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.Migration11.resources
+C:\RentExtreme2\RentExtreme2\bin\ApplicationInsights.config
+C:\RentExtreme2\RentExtreme2\bin\roslyn\csc.exe
+C:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\RentExtreme2\RentExtreme2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\RentExtreme2\RentExtreme2\bin\roslyn\System.Collections.Immutable.dll
+C:\RentExtreme2\RentExtreme2\bin\roslyn\System.Reflection.Metadata.dll
+C:\RentExtreme2\RentExtreme2\bin\roslyn\vbc.exe
+C:\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe
+C:\RentExtreme2\RentExtreme2\bin\roslyn\VBCSCompiler.exe.config
+C:\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll.config
+C:\RentExtreme2\RentExtreme2\bin\RentExtreme2.dll
+C:\RentExtreme2\RentExtreme2\bin\RentExtreme2.pdb
+C:\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.dll
+C:\RentExtreme2\RentExtreme2\bin\EntityFramework.dll
+C:\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Web.Infrastructure.dll
+C:\RentExtreme2\RentExtreme2\bin\MySql.Data.dll
+C:\RentExtreme2\RentExtreme2\bin\MySql.Data.Entity.EF6.dll
+C:\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.dll
+C:\RentExtreme2\RentExtreme2\bin\Owin.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Razor.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.dll
+C:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.dll
+C:\RentExtreme2\RentExtreme2\bin\WebGrease.dll
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.DependencyCollector.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.Web.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AI.WindowsServer.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.ApplicationInsights.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Helpers.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Mvc.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Optimization.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.Razor.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Deployment.xml
+C:\RentExtreme2\RentExtreme2\bin\System.Web.WebPages.Razor.xml
+C:\RentExtreme2\RentExtreme2\bin\Antlr3.Runtime.pdb
+C:\RentExtreme2\RentExtreme2\bin\Newtonsoft.Json.xml
+C:\RentExtreme2\RentExtreme2\bin\EntityFramework.xml
+C:\RentExtreme2\RentExtreme2\bin\EntityFramework.SqlServer.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Google.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\RentExtreme2\RentExtreme2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csprojResolveAssemblyReference.cache
+C:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.dll
+C:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.pdb
+C:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.addseveralid.resources
+C:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.csproj.GenerateResource.Cache
+C:\RentExtreme2\RentExtreme2\obj\Debug\RentExtreme2.Migrations.addurltoservice.resources

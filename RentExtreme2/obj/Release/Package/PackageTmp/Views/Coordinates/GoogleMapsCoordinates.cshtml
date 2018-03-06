@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Отправить мои координаты</title>
+</head>
+<body>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLR5w7hb1s058Sh1pvjesvh97dX6sjX5w"></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            var mapOptions = {
+                center: new google.maps.LatLng(49.988315, 36.232462),
+                zoom: 10,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            var infoWindow = new google.maps.InfoWindow();
+            var latlngbounds = new google.maps.LatLngBounds();
+            var map = new google.maps.Map(document.getElementById("dvMap"), mapOptions);
+            google.maps.event.addListener(map, 'click', function (e) {
+                alert("Долгота: " + e.latLng.lat() + "\r\n Широта: " + e.latLng.lng());
+            });
+        }
+    </script>
+    <div id="dvMap" style="width: 1400px; height: 640px">
+    </div>
+</body>
+</html>

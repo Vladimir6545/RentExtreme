@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "DetermineMyCoordinates";
+}
+
+<h2>Определение текущих координат</h2>
+
+<button onclick="getLocation()">Отправить</button>
+
+<p id="Ihere"></p>
+
+@using (Html.BeginForm("Index", "DisplayData"))
+{
+    <input type="submit" onclick="" />
+        <input id="test" type="hidden" value="" />
+}
+
+<script>
+    var x = document.getElementById("Ihere");
+
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+
+        //var obj = { x }
+        //document.getElementById("test").value = JSON.stringify(x)
+
+    } else {
+        x.innerHTML = "Геолокация не поддерживаеться этим браузером.";
+    }
+}
+
+function showPosition(position) {
+    @*<input id="test" type="hidden" value=@ViewBag.Result />*@
+    x.innerHTML = "Широта: " + position.coords.latitude +
+    "<br>Долгота: " + position.coords.longitude;
+
+    document.getElementById("test").value = JSON.stringify( x = position.coords.latitude
+        + position.coords.longitude);
+}
+</script>

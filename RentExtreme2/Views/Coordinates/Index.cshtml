@@ -1,0 +1,32 @@
+﻿@model IEnumerable<String>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+    @*<p>@ViewBag.PId</p>*@
+    
+
+
+<h2>Отправить координаты</h2>
+@using (Html.BeginForm())
+{
+    <br />
+    @Html.ActionLink("Отправить мои координаты", "DetermineMyCoordinates", "Coordinates");
+    <br />
+    @*Не релизовано*@
+    @*@Html.ActionLink("Отправить координаты по адресу", "AddressCoordinates", "Coordinates"); 
+    <br />*@
+    @Html.ActionLink("Отправить координаты по карте", "GoogleMapsCoordinates", "Coordinates");
+    <br />
+}
+
+@*<p>@ViewBag.Rezult</p>*@
+  @foreach (var company in Model)
+      {
+        <p>@company</p>
+      }
+
+
+
+

@@ -1,0 +1,67 @@
+﻿@using RentExtreme2.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+@Styles.Render("~/Content/Site.css")
+@*<h2>@ViewBag.Title.</h2>*@
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <br />
+                <h4>Используйте свою учетную запись для входа в систему.</h4>
+                <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "validation-summary-errors" })
+
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            Введите Логин
+                            @Html.TextBoxFor(m => m.Login, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Login, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            Введите пароль
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox">
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Вход" @*class="btn btn-default"*@ />
+                    </div>
+                </div>
+                <p>
+                    @Html.ActionLink("Зарегестрироваться как новый пользователь", "Register")
+                </p>
+                @* Enable this once you have account confirmation enabled for password reset functionality*@
+                    <p>
+                        @Html.ActionLink("Забыли пароль?", "ForgotPassword")
+                    </p>
+            }
+        </section>
+    </div>
+    @*<div class="col-md-4">
+        <section id="socialLoginForm">
+            @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+    </div>*@
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

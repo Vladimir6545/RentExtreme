@@ -1,0 +1,32 @@
+﻿@model List<RentExtreme2.Models.Service>
+@{
+    ViewBag.Title = "Home Page";
+    var i = 0;
+}
+
+<div class="jumbotron">
+    <h1></h1>
+    <div id="myCarousel" class="carousel slide">
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner">
+            @foreach (var service in Model)
+            {
+                <div class="item @(i++==0?"active":"")">
+                    <a href="@Url.Action("Index","Coordinates", new { id=service.Id})">
+                        <img src="@(service.ImageUrl)" alt="">
+                        <div class="carousel-caption">
+                            <h4></h4>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+    </div>
+</div>
